@@ -1,0 +1,16 @@
+C:\Users\ilkin\OneDrive\Desktop\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.csproj.AssemblyReference.cache
+C:\Users\ilkin\OneDrive\Desktop\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkin\OneDrive\Desktop\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\ilkin\OneDrive\Desktop\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.AssemblyInfo.cs
+C:\Users\ilkin\OneDrive\Desktop\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\ilkin\OneDrive\Desktop\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.sourcelink.json
+C:\Users\ilkin\OneDrive\Desktop\RepositoryLayer\bin\Debug\net8.0\RepositoryLayer.deps.json
+C:\Users\ilkin\OneDrive\Desktop\RepositoryLayer\bin\Debug\net8.0\RepositoryLayer.dll
+C:\Users\ilkin\OneDrive\Desktop\RepositoryLayer\bin\Debug\net8.0\RepositoryLayer.pdb
+C:\Users\ilkin\OneDrive\Desktop\RepositoryLayer\bin\Debug\net8.0\DomainLayer.dll
+C:\Users\ilkin\OneDrive\Desktop\RepositoryLayer\bin\Debug\net8.0\DomainLayer.pdb
+C:\Users\ilkin\OneDrive\Desktop\RepositoryLayer\obj\Debug\net8.0\Reposito.A0A61804.Up2Date
+C:\Users\ilkin\OneDrive\Desktop\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.dll
+C:\Users\ilkin\OneDrive\Desktop\RepositoryLayer\obj\Debug\net8.0\refint\RepositoryLayer.dll
+C:\Users\ilkin\OneDrive\Desktop\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.pdb
+C:\Users\ilkin\OneDrive\Desktop\RepositoryLayer\obj\Debug\net8.0\ref\RepositoryLayer.dll

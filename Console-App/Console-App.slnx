@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../DomainLayer/DomainLayer.csproj" />
+  <Project Path="../RepositoryLayer/RepositoryLayer.csproj" />
+  <Project Path="../ServiceLayer/ServiceLayer.csproj" Id="c59fb669-0305-45e8-a87b-82fc7990bf3f" />
+  <Project Path="Console-App.csproj" />
+</Solution>

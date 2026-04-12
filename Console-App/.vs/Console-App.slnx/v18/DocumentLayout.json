@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ilkin\\OneDrive\\Desktop\\Console-App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FAC686-B06F-32BE-8B70-4A7CBAB1FD97}|Console-App.csproj|c:\\users\\ilkin\\onedrive\\desktop\\console-app\\console-app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E5FAC686-B06F-32BE-8B70-4A7CBAB1FD97}|Console-App.csproj|solutionrelative:console-app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FAC686-B06F-32BE-8B70-4A7CBAB1FD97}|Console-App.csproj|c:\\users\\ilkin\\onedrive\\desktop\\console-app\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FAC686-B06F-32BE-8B70-4A7CBAB1FD97}|Console-App.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FAC686-B06F-32BE-8B70-4A7CBAB1FD97}|Console-App.csproj|c:\\users\\ilkin\\onedrive\\desktop\\console-app\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FAC686-B06F-32BE-8B70-4A7CBAB1FD97}|Console-App.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FAC686-B06F-32BE-8B70-4A7CBAB1FD97}|Console-App.csproj|c:\\users\\ilkin\\onedrive\\desktop\\console-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FAC686-B06F-32BE-8B70-4A7CBAB1FD97}|Console-App.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77BE55E-41DD-16AD-C25E-3B8360208380}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\ilkin\\onedrive\\desktop\\repositorylayer\\repositories\\implementations\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FAC686-B06F-32BE-8B70-4A7CBAB1FD97}|Console-App.csproj|c:\\users\\ilkin\\onedrive\\desktop\\console-app\\helper\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FAC686-B06F-32BE-8B70-4A7CBAB1FD97}|Console-App.csproj|solutionrelative:helper\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F7AAE6-7668-C3AE-1BD1-B8C315631D02}|..\\DomainLayer\\DomainLayer.csproj|c:\\users\\ilkin\\onedrive\\desktop\\domainlayer\\entites\\coursegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C59FB669-0305-45E8-A87B-82FC7990BF3F}|..\\ServiceLayer\\ServiceLayer.csproj|c:\\users\\ilkin\\onedrive\\desktop\\servicelayer\\services\\implementations\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C59FB669-0305-45E8-A87B-82FC7990BF3F}|..\\ServiceLayer\\ServiceLayer.csproj|c:\\users\\ilkin\\onedrive\\desktop\\servicelayer\\services\\implementations\\coursegroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77BE55E-41DD-16AD-C25E-3B8360208380}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\ilkin\\onedrive\\desktop\\repositorylayer\\repositories\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77BE55E-41DD-16AD-C25E-3B8360208380}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\ilkin\\onedrive\\desktop\\repositorylayer\\repositories\\interfaces\\icoursegrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77BE55E-41DD-16AD-C25E-3B8360208380}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\ilkin\\onedrive\\desktop\\repositorylayer\\data\\coursegroupdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77BE55E-41DD-16AD-C25E-3B8360208380}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\ilkin\\onedrive\\desktop\\repositorylayer\\data\\studentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77BE55E-41DD-16AD-C25E-3B8360208380}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\ilkin\\onedrive\\desktop\\repositorylayer\\repositories\\implementations\\coursegrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C59FB669-0305-45E8-A87B-82FC7990BF3F}|..\\ServiceLayer\\ServiceLayer.csproj|c:\\users\\ilkin\\onedrive\\desktop\\servicelayer\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F7AAE6-7668-C3AE-1BD1-B8C315631D02}|..\\DomainLayer\\DomainLayer.csproj|c:\\users\\ilkin\\onedrive\\desktop\\domainlayer\\entites\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C59FB669-0305-45E8-A87B-82FC7990BF3F}|..\\ServiceLayer\\ServiceLayer.csproj|c:\\users\\ilkin\\onedrive\\desktop\\servicelayer\\services\\interfaces\\icoursegroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77BE55E-41DD-16AD-C25E-3B8360208380}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\ilkin\\onedrive\\desktop\\repositorylayer\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77BE55E-41DD-16AD-C25E-3B8360208380}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\ilkin\\onedrive\\desktop\\repositorylayer\\repositorylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F7AAE6-7668-C3AE-1BD1-B8C315631D02}|..\\DomainLayer\\DomainLayer.csproj|c:\\users\\ilkin\\onedrive\\desktop\\domainlayer\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F7AAE6-7668-C3AE-1BD1-B8C315631D02}|..\\DomainLayer\\DomainLayer.csproj|c:\\users\\ilkin\\onedrive\\desktop\\domainlayer\\domainlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 76,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\ilkin\\OneDrive\\Desktop\\Console-App\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\ilkin\\OneDrive\\Desktop\\Console-App\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T15:36:05.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CourseGroupService.cs",
+              "DocumentMoniker": "C:\\Users\\ilkin\\OneDrive\\Desktop\\ServiceLayer\\Services\\Implementations\\CourseGroupService.cs",
+              "RelativeDocumentMoniker": "..\\ServiceLayer\\Services\\Implementations\\CourseGroupService.cs",
+              "ToolTip": "C:\\Users\\ilkin\\OneDrive\\Desktop\\ServiceLayer\\Services\\Implementations\\CourseGroupService.cs",
+              "RelativeToolTip": "..\\ServiceLayer\\Services\\Implementations\\CourseGroupService.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAQwAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T13:06:07.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\ilkin\\OneDrive\\Desktop\\ServiceLayer\\Services\\Implementations\\StudentService.cs",
+              "RelativeDocumentMoniker": "..\\ServiceLayer\\Services\\Implementations\\StudentService.cs",
+              "ToolTip": "C:\\Users\\ilkin\\OneDrive\\Desktop\\ServiceLayer\\Services\\Implementations\\StudentService.cs",
+              "RelativeToolTip": "..\\ServiceLayer\\Services\\Implementations\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T13:05:40.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseGroup.cs",
+              "DocumentMoniker": "C:\\Users\\ilkin\\OneDrive\\Desktop\\DomainLayer\\Entites\\CourseGroup.cs",
+              "RelativeDocumentMoniker": "..\\DomainLayer\\Entites\\CourseGroup.cs",
+              "ToolTip": "C:\\Users\\ilkin\\OneDrive\\Desktop\\DomainLayer\\Entites\\CourseGroup.cs",
+              "RelativeToolTip": "..\\DomainLayer\\Entites\\CourseGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T12:28:13.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ilkin\\OneDrive\\Desktop\\Console-App\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ilkin\\OneDrive\\Desktop\\Console-App\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T12:25:05.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ilkin\\OneDrive\\Desktop\\RepositoryLayer\\Repositories\\Implementations\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Repositories\\Implementations\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\ilkin\\OneDrive\\Desktop\\RepositoryLayer\\Repositories\\Implementations\\StudentRepository.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Repositories\\Implementations\\StudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T12:38:59.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Console-App.csproj",
+              "DocumentMoniker": "C:\\Users\\ilkin\\OneDrive\\Desktop\\Console-App\\Console-App.csproj",
+              "RelativeDocumentMoniker": "Console-App.csproj",
+              "ToolTip": "C:\\Users\\ilkin\\OneDrive\\Desktop\\Console-App\\Console-App.csproj",
+              "RelativeToolTip": "Console-App.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-12T14:27:18.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ilkin\\OneDrive\\Desktop\\RepositoryLayer\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\ilkin\\OneDrive\\Desktop\\RepositoryLayer\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T12:33:03.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\ilkin\\OneDrive\\Desktop\\Console-App\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\ilkin\\OneDrive\\Desktop\\Console-App\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T15:37:53.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICourseGroupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ilkin\\OneDrive\\Desktop\\RepositoryLayer\\Repositories\\Interfaces\\ICourseGroupRepository.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Repositories\\Interfaces\\ICourseGroupRepository.cs",
+              "ToolTip": "C:\\Users\\ilkin\\OneDrive\\Desktop\\RepositoryLayer\\Repositories\\Interfaces\\ICourseGroupRepository.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Repositories\\Interfaces\\ICourseGroupRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T12:32:44.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\ilkin\\OneDrive\\Desktop\\Console-App\\Helper\\Helper.cs",
+              "RelativeDocumentMoniker": "Helper\\Helper.cs",
+              "ToolTip": "C:\\Users\\ilkin\\OneDrive\\Desktop\\Console-App\\Helper\\Helper.cs",
+              "RelativeToolTip": "Helper\\Helper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T14:28:12.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CourseGroupDB.cs",
+              "DocumentMoniker": "C:\\Users\\ilkin\\OneDrive\\Desktop\\RepositoryLayer\\Data\\CourseGroupDB.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Data\\CourseGroupDB.cs",
+              "ToolTip": "C:\\Users\\ilkin\\OneDrive\\Desktop\\RepositoryLayer\\Data\\CourseGroupDB.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Data\\CourseGroupDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T12:50:09.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentDB.cs",
+              "DocumentMoniker": "C:\\Users\\ilkin\\OneDrive\\Desktop\\RepositoryLayer\\Data\\StudentDB.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Data\\StudentDB.cs",
+              "ToolTip": "C:\\Users\\ilkin\\OneDrive\\Desktop\\RepositoryLayer\\Data\\StudentDB.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Data\\StudentDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T12:49:59.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CourseGroupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ilkin\\OneDrive\\Desktop\\RepositoryLayer\\Repositories\\Implementations\\CourseGroupRepository.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Repositories\\Implementations\\CourseGroupRepository.cs",
+              "ToolTip": "C:\\Users\\ilkin\\OneDrive\\Desktop\\RepositoryLayer\\Repositories\\Implementations\\CourseGroupRepository.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Repositories\\Implementations\\CourseGroupRepository.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAuwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T12:42:55.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\ilkin\\OneDrive\\Desktop\\ServiceLayer\\Services\\Interfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "..\\ServiceLayer\\Services\\Interfaces\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\ilkin\\OneDrive\\Desktop\\ServiceLayer\\Services\\Interfaces\\IStudentService.cs",
+              "RelativeToolTip": "..\\ServiceLayer\\Services\\Interfaces\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T12:59:59.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ilkin\\OneDrive\\Desktop\\DomainLayer\\Entites\\Student.cs",
+              "RelativeDocumentMoniker": "..\\DomainLayer\\Entites\\Student.cs",
+              "ToolTip": "C:\\Users\\ilkin\\OneDrive\\Desktop\\DomainLayer\\Entites\\Student.cs",
+              "RelativeToolTip": "..\\DomainLayer\\Entites\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T12:28:05.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICourseGroupService.cs",
+              "DocumentMoniker": "C:\\Users\\ilkin\\OneDrive\\Desktop\\ServiceLayer\\Services\\Interfaces\\ICourseGroupService.cs",
+              "RelativeDocumentMoniker": "..\\ServiceLayer\\Services\\Interfaces\\ICourseGroupService.cs",
+              "ToolTip": "C:\\Users\\ilkin\\OneDrive\\Desktop\\ServiceLayer\\Services\\Interfaces\\ICourseGroupService.cs",
+              "RelativeToolTip": "..\\ServiceLayer\\Services\\Interfaces\\ICourseGroupService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T13:03:24.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\ilkin\\OneDrive\\Desktop\\RepositoryLayer\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\ilkin\\OneDrive\\Desktop\\RepositoryLayer\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T12:46:16.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RepositoryLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\ilkin\\OneDrive\\Desktop\\RepositoryLayer\\RepositoryLayer.csproj",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\RepositoryLayer.csproj",
+              "ToolTip": "C:\\Users\\ilkin\\OneDrive\\Desktop\\RepositoryLayer\\RepositoryLayer.csproj",
+              "RelativeToolTip": "..\\RepositoryLayer\\RepositoryLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-12T12:30:43.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ilkin\\OneDrive\\Desktop\\DomainLayer\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "..\\DomainLayer\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ilkin\\OneDrive\\Desktop\\DomainLayer\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "..\\DomainLayer\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T12:28:40.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DomainLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\ilkin\\OneDrive\\Desktop\\DomainLayer\\DomainLayer.csproj",
+              "RelativeDocumentMoniker": "..\\DomainLayer\\DomainLayer.csproj",
+              "ToolTip": "C:\\Users\\ilkin\\OneDrive\\Desktop\\DomainLayer\\DomainLayer.csproj",
+              "RelativeToolTip": "..\\DomainLayer\\DomainLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-12T12:28:16.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
